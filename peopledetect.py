@@ -18,7 +18,6 @@ from __future__ import print_function
 import numpy as np
 import cv2
 
-
 def inside(r, q):
     rx, ry, rw, rh = r
     qx, qy, qw, qh = q
